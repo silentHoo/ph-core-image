@@ -1,4 +1,4 @@
-# ph-core-audio
-An audio component wrapper with recording functionality
+# ph-core-image
+An image component wrapper with image capture functionality.
 
-See the demo in action at https://silentHoo.github.io/ph-core-audio
+See the demo in action at https://silentHoo.github.io/ph-core-image
